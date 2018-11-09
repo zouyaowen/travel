@@ -7,6 +7,9 @@
 		<!--<router-link to="/list" class="home">列表页</router-link>-->
 		<home-header></home-header>
 		<home-swiper></home-swiper>
+		<div>
+			text
+		</div>
 	</div>
 </template>
 

@@ -1,0 +1,20 @@
+头部宽高像素：750*86
+
+安装依赖：
+npm install stylus --save
+实际使用命令：>cnpm install stylus --save
+
+安装成功（注意之前有命令安装依赖需要将--save放在前面）
+
+
+安装依赖
+npm install stylus-loader --save
+实际使用命令cnpm install stylus-loader --save
+
+运行项目使用命令：npm run dev
+此命令等价于:npm run start
+
+安装vue-awesome-swiper
+npm install vue-awesome-swiper --save
+为了使用特定版本加版本号
+cnpm install vue-awesome-swiper@2.6.7 --save
